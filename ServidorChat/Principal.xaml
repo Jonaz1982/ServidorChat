@@ -1,0 +1,38 @@
+﻿<Window Title="Administración Servicio Chat" 
+xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" 
+xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" 
+x:Class="ServidorChat.Principal" Height="300" Width="300">
+    
+        <DockPanel LastChildFill="True">
+            <ToolBar Height="44" DockPanel.Dock="Top">
+                <Button x:Name="btnIniciar" Click="btnIniciar_Click">
+                    <Image  Source="Imagenes\Play.jpg" />
+                </Button>
+                <Button x:Name="btnDetener" Click="btnDetener_Click">
+                    <Image  Source="Imagenes\Stop.jpg" />
+                </Button>
+            </ToolBar>
+            <Grid DockPanel.Dock="Top" Height="150">
+                <Grid.Background>
+                    <LinearGradientBrush>
+                        <GradientStop Color="LightSlateGray" Offset="0" />
+                        <GradientStop Color="White" Offset="0.5" />
+                        <GradientStop Color="LightSlateGray" Offset="0.9" />
+                    </LinearGradientBrush>
+                </Grid.Background>
+                <Label x:Name="Label1" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top"  Width="120" Content="Dirección IP" Height="25" />
+                <Label x:Name="label2" HorizontalAlignment="Left" Margin="10,50,0,0" VerticalAlignment="Top" Width="53" Content="Puerto"  Height="25"/>
+                <TextBox x:Name="txtIP" HorizontalAlignment="Left" Height="23" Margin="150,14,0,0" Text="localhost" VerticalAlignment="Top" Width="120"/>
+                <TextBox x:Name="txtPuerto" HorizontalAlignment="Left" Height="23" Margin="150,50,0,0" Text="7997" VerticalAlignment="Top" Width="120"/>
+
+
+
+            </Grid>
+            <StatusBar DockPanel.Dock="Bottom"  Height="50">
+                <StatusBarItem>
+                    <TextBlock x:Name="lblEstado" />
+                </StatusBarItem>
+            </StatusBar>
+        </DockPanel>
+   
+</Window>

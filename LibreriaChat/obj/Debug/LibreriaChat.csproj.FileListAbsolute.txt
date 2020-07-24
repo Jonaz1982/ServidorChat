@@ -1,0 +1,21 @@
+C:\Catedra\ITM\Programacion Distribuida\Proyectos\Chat\LibreriaChat\bin\Debug\LibreriaChat.dll
+C:\Catedra\ITM\Programacion Distribuida\Proyectos\Chat\LibreriaChat\bin\Debug\LibreriaChat.pdb
+C:\Catedra\ITM\Programacion Distribuida\Proyectos\Chat\LibreriaChat\obj\Debug\LibreriaChat.dll
+C:\Catedra\ITM\Programacion Distribuida\Proyectos\Chat\LibreriaChat\obj\Debug\LibreriaChat.pdb
+C:\Catedra\ITM\Programacion Distribuida\Proyectos\Chat\LibreriaChat\obj\Debug\LibreriaChat.csprojResolveAssemblyReference.cache
+T:\ServidorChat\LibreriaChat\obj\Debug\LibreriaChat.csprojResolveAssemblyReference.cache
+T:\ServidorChat\LibreriaChat\obj\Debug\LibreriaChat.dll
+T:\ServidorChat\LibreriaChat\obj\Debug\LibreriaChat.pdb
+D:\Programación\ClienteChat\ServidorChat\LibreriaChat\obj\Debug\LibreriaChat.csprojResolveAssemblyReference.cache
+D:\Programación\ClienteChat\ServidorChat\LibreriaChat\obj\Debug\LibreriaChat.dll
+D:\Programación\ClienteChat\ServidorChat\LibreriaChat\obj\Debug\LibreriaChat.pdb
+I:\Universidad 2014\Semestre2\Programación\ClienteChat\ServidorChat\LibreriaChat\obj\Debug\LibreriaChat.dll
+I:\Universidad 2014\Semestre2\Programación\ClienteChat\ServidorChat\LibreriaChat\obj\Debug\LibreriaChat.pdb
+I:\Universidad 2014\Semestre2\Programación\ClienteChat\ServidorChat\LibreriaChat\bin\Debug\LibreriaChat.dll
+I:\Universidad 2014\Semestre2\Programación\ClienteChat\ServidorChat\LibreriaChat\bin\Debug\LibreriaChat.pdb
+I:\Universidad 2014\Semestre2\Programación\ClienteChat\ServidorChat\LibreriaChat\obj\Debug\LibreriaChat.csprojResolveAssemblyReference.cache
+I:\Universidad 2014\Semestre2\Programación\ClienteGrupo\ClienteChat - Cristian\ServidorChat\LibreriaChat\obj\Debug\LibreriaChat.csprojResolveAssemblyReference.cache
+I:\Universidad 2014\Semestre2\Programación\ClienteGrupo\ClienteChat - Cristian\ServidorChat\LibreriaChat\obj\Debug\LibreriaChat.dll
+I:\Universidad 2014\Semestre2\Programación\ClienteGrupo\ClienteChat - Cristian\ServidorChat\LibreriaChat\obj\Debug\LibreriaChat.pdb
+I:\Universidad 2014\Semestre2\Programación\ClienteGrupo\ClienteChat - Cristian\ServidorChat\LibreriaChat\bin\Debug\LibreriaChat.dll
+I:\Universidad 2014\Semestre2\Programación\ClienteGrupo\ClienteChat - Cristian\ServidorChat\LibreriaChat\bin\Debug\LibreriaChat.pdb

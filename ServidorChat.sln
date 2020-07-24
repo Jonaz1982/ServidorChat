@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServidorChat", "ServidorChat\ServidorChat.csproj", "{A6B127D5-8FBB-448B-B630-749334A9862F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibreriaChat", "LibreriaChat\LibreriaChat.csproj", "{3A0A5A2F-D3D6-4005-87E2-691DB1E31E52}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A6B127D5-8FBB-448B-B630-749334A9862F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6B127D5-8FBB-448B-B630-749334A9862F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6B127D5-8FBB-448B-B630-749334A9862F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6B127D5-8FBB-448B-B630-749334A9862F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A0A5A2F-D3D6-4005-87E2-691DB1E31E52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A0A5A2F-D3D6-4005-87E2-691DB1E31E52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A0A5A2F-D3D6-4005-87E2-691DB1E31E52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A0A5A2F-D3D6-4005-87E2-691DB1E31E52}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
